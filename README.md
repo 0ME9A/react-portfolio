@@ -1,3 +1,9 @@
+# Portfolio
+frontEnd portfolio website built with react.
+
+
+![preview](https://user-images.githubusercontent.com/83957658/171794623-99ac76f8-7264-4a80-af62-3e4815c08547.jpeg)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
