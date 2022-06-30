@@ -1,6 +1,6 @@
 <header>
-  <h2>{title}</h2>
-  <h5>{stitle}</h5>
+  <h2>portfolio</h2>
+  <h5>react portfolio website for dev</h5>
 </header>
 <figure>
   <img src='https://user-images.githubusercontent.com/83957658/171794623-99ac76f8-7264-4a80-af62-3e4815c08547.jpeg'/>
