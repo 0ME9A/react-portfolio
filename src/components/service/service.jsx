@@ -1,7 +1,7 @@
 import React from 'react'
 import './service.css'
 import {BiCheck} from 'react-icons/bi'
-function service() {
+function Service() {
   return (
     <section id='services'>
       <h5>What I Offer</h5>
@@ -109,4 +109,4 @@ function service() {
   )
 }
 
-export default service
+export default Service

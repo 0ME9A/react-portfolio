@@ -6,7 +6,7 @@ import HeaderSocial from './headerSocial'
 
 
 
-function header() {
+function Header() {
   return (
     <header id='home'>
       <div className="container header_container">
@@ -29,4 +29,4 @@ function header() {
   )
 }
 
-export default header
+export default Header

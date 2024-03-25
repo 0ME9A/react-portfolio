@@ -6,7 +6,7 @@ import {FiUsers} from 'react-icons/fi'
 import {VscFolderLibrary} from 'react-icons/vsc'
 
 
-function about() {
+function About() {
   return (
     <section id='about'>
       <h5>Get to Know</h5>
@@ -44,4 +44,4 @@ function about() {
   )
 }
 
-export default about
+export default About

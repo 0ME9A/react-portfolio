@@ -4,7 +4,7 @@ import {BsLinkedin, BsGithub} from 'react-icons/bs'
 import {FaFigma} from 'react-icons/fa'
 
 
-const footer = () => {
+const Footer = () => {
   return (
     <footer>
       <a href="#" className='footer_logo'>OMEGA</a>
@@ -31,4 +31,4 @@ const footer = () => {
   )
 }
 
-export default footer
+export default Footer

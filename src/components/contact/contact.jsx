@@ -6,7 +6,7 @@ import {BsWhatsapp} from 'react-icons/bs'
 import {useRef} from 'react'
 import emailjs from 'emailjs-com'
 
-const contact = () => {
+const Contact = () => {
   // eslint-disable-next-line react-hooks/rules-of-hooks
   const form = useRef();
 
@@ -49,4 +49,4 @@ const contact = () => {
   )
 }
 
-export default contact
+export default Contact

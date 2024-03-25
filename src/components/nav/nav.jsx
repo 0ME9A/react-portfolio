@@ -8,7 +8,7 @@ import {RiServiceLine} from 'react-icons/ri'
 import {BiMessageDetail} from 'react-icons/bi'
 import {useState} from 'react'
 
-function nav() {
+function Nav() {
   // eslint-disable-next-line react-hooks/rules-of-hooks
   const [activeNav, setActiveNav] = useState('#')
   return (
@@ -23,4 +23,4 @@ function nav() {
   )
 }
 
-export default nav
+export default Nav
