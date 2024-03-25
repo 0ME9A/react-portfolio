@@ -8,7 +8,7 @@ const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
   <React.StrictMode>
     {/* <App /> */}
-    <h1>This is test of component</h1>
+    <h1>This is test of components</h1>
   </React.StrictMode>
 );
 
